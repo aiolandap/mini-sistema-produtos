@@ -99,10 +99,10 @@ mini-sistema-produtos/
 │
 ├── actions/
 │   ├── adicionar_produtos_cesta_action.php
-|   ├── cadastro_usuario_action.php
+│   ├── cadastro_usuario_action.php
 │   ├── criar_cesta_action.php
 │   ├── excluir_cesta_action.php
-|   ├── fornecedor_action.php
+│   ├── fornecedor_action.php
 │   ├── login_action.php
 │   ├── logout_action.php
 │   ├── produto_action.php
@@ -144,6 +144,7 @@ mini-sistema-produtos/
 ├── index.php
 ├── login.php
 ├── cadastro.php
+├── DER.png
 └── README.md
 ```
 
@@ -275,34 +276,20 @@ O sistema possui as seguintes telas principais:
 
 Os esboços das telas foram desenvolvidos no Figma.
 
-> Inserir aqui as imagens ou links dos esboços criados no Figma.
-
-Exemplo:
-
-```md
-![Tela de Login](docs/figma-login.png)
-![Dashboard](docs/figma-dashboard.png)
-![Cadastro de Produtos](docs/figma-produtos.png)
-```
+[Ver projeto no Figma](https://www.figma.com/design/9BFzxztHmO9kivJRWMCW3Z/mini-sistema-produtos?node-id=0-1&m=dev&t=17L6r5Y3N4GHQg1m-1)
 
 ## Diagrama Entidade Relacionamento
 
 O Diagrama Entidade Relacionamento representa as tabelas e os relacionamentos do sistema.
 
-> Inserir aqui a imagem do DER.
-
-Exemplo:
-
-```md
-![DER do Sistema](docs/der.png)
-```
+![DER do Sistema](DER.png)
 
 ## Como Executar o Projeto
 
 ### 1. Clonar o repositório
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/aiolandap/mini-sistema-produtos.git
 ```
 
 ### 2. Acessar a pasta do projeto
@@ -397,7 +384,7 @@ http://localhost/mini-sistema-produtos/
 
 | Nome | RA |
 |---|---|
-|Alessandra Iolanda Pacheco dos Santos | 60003882
+| Alessandra Iolanda Pacheco dos Santos | 60003882 |
 
 ## Observações
 
